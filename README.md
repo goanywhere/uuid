@@ -2,7 +2,7 @@ uuid
 ===
 [![Build Status](https://travis-ci.org/goanywhere/uuid.svg?branch=master)](https://travis-ci.org/goanywhere/uuid) [![GoDoc](https://godoc.org/github.com/goanywhere/uuid?status.svg)](http://godoc.org/github.com/goanywhere/uuid)
 
-UUID toolkit for the [Go](http://golang.org) programming language.
+Toolkit for generates and inspects UUIDs in [Go](http://golang.org) programming language.
 
 ## Getting Started
 
